@@ -1,5 +1,7 @@
 # test-framework
-A C++23 version of my old The Simplest Automated Unit Test Framework That Could Possibly Work
+A C++23 version of the sequel to my old The Simplest Automated Unit Test Framework That Could Possibly Work. 
+
+That sequel can be found <a href="https://freshsources.com/articles/academic/55_Lines.pdf">here</a>.
 
 What was in a single header file is now spread across two files:
 
